@@ -1,4 +1,4 @@
-FROM ruby:2.3
+FROM ruby:2.3 
 MAINTAINER matteodema17@gmail.com
 
 # Install apt based dependencies required to run Rails as 
